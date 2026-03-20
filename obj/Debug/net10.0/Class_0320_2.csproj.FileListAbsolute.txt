@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Class_0320_2\Class_0320_2\bin\Debug\net10.0\Class_0320_2.exe
+C:\Users\Administrator\Desktop\Class_0320_2\Class_0320_2\bin\Debug\net10.0\Class_0320_2.deps.json
+C:\Users\Administrator\Desktop\Class_0320_2\Class_0320_2\bin\Debug\net10.0\Class_0320_2.runtimeconfig.json
+C:\Users\Administrator\Desktop\Class_0320_2\Class_0320_2\bin\Debug\net10.0\Class_0320_2.dll
+C:\Users\Administrator\Desktop\Class_0320_2\Class_0320_2\bin\Debug\net10.0\Class_0320_2.pdb
+C:\Users\Administrator\Desktop\Class_0320_2\Class_0320_2\obj\Debug\net10.0\Class_0320_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Class_0320_2\Class_0320_2\obj\Debug\net10.0\Class_0320_2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Class_0320_2\Class_0320_2\obj\Debug\net10.0\Class_0320_2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Class_0320_2\Class_0320_2\obj\Debug\net10.0\Class_0320_2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Class_0320_2\Class_0320_2\obj\Debug\net10.0\Class_0320_2.dll
+C:\Users\Administrator\Desktop\Class_0320_2\Class_0320_2\obj\Debug\net10.0\refint\Class_0320_2.dll
+C:\Users\Administrator\Desktop\Class_0320_2\Class_0320_2\obj\Debug\net10.0\Class_0320_2.pdb
+C:\Users\Administrator\Desktop\Class_0320_2\Class_0320_2\obj\Debug\net10.0\Class_0320_2.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Class_0320_2\Class_0320_2\obj\Debug\net10.0\ref\Class_0320_2.dll
